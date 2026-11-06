@@ -1,0 +1,11 @@
+{
+  "org": "documatt",
+  "repo": "sphinx-reredirects",
+  "versions": [
+    {
+      "commit": "114983d43f8d346e30c05399ef5c6f9c11151c26",
+      "tag": "",
+      "parsed_at": "2026-11-06T03:01:03.694303+00:00"
+    }
+  ]
+}
