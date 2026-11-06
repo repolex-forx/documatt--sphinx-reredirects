@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/documatt/sphinx-reredirects/commit/114983d43f8d346e30c05399ef5c6f9c11151c26",
       "git:hexsha": "114983d43f8d346e30c05399ef5c6f9c11151c26",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/documatt/sphinx-reredirects/commit/43dfe6e48eb21335b611eb0fa1b805a764de03ea",
