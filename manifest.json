@@ -122,6 +122,84 @@
       ],
       "ast": [
         "aggregate/ast/c73481d284833b755728b5b8ad75e37922d30a13/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/c73481d284833b755728b5b8ad75e37922d30a13.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@commitlint/cli",
+          "ecosystem": "NPM",
+          "version": "19.8.0",
+          "githubOrg": "conventional-changelog",
+          "githubRepo": "commitlint",
+          "githubCommit": "e82f05a737626bb69979d14564f5ff601997f679",
+          "githubTag": "v19.8.0",
+          "githubUrl": "git+https://github.com/conventional-changelog/commitlint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@commitlint/config-conventional",
+          "ecosystem": "NPM",
+          "version": "19.8.0",
+          "githubOrg": "conventional-changelog",
+          "githubRepo": "commitlint",
+          "githubCommit": "e82f05a737626bb69979d14564f5ff601997f679",
+          "githubTag": "v19.8.0",
+          "githubUrl": "git+https://github.com/conventional-changelog/commitlint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "git-cliff",
+          "ecosystem": "NPM",
+          "version": "2.8.0",
+          "githubOrg": "orhun",
+          "githubRepo": "git-cliff",
+          "githubCommit": "e61b246f22ffd2e32130aab7f3259f894e15f847",
+          "githubTag": "v2.8.0",
+          "githubUrl": "git+https://github.com/orhun/git-cliff.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "9.1.7",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "799e84b716d0e03db80db5d5b0dcdd15b9d555fc",
+          "githubTag": "v9.1.7",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "15.5.0",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "7e6abe47c2c7584e72ded13a16d2e93d0a98f57b",
+          "githubTag": "v15.5.0",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "3.5.3",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubCommit": "4ff5dc540fa09b25fb0c02709d227af5ca53cfbf",
+          "githubTag": "3.5.3",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "7.4",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
