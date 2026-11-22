@@ -3,6 +3,11 @@
   "repo": "sphinx-reredirects",
   "versions": [
     {
+      "commit": "c73481d284833b755728b5b8ad75e37922d30a13",
+      "tag": "v1.1.0",
+      "parsed_at": "2026-11-22T09:03:50.284062+00:00"
+    },
+    {
       "commit": "114983d43f8d346e30c05399ef5c6f9c11151c26",
       "tag": "",
       "parsed_at": "2026-11-06T03:01:03.694303+00:00"
